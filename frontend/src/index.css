@@ -119,6 +119,7 @@ a:hover {
 }
 
 .sidebar {
+  transition: all 0.5s;
   position: fixed;
   transform: translateX(-30rem);
   width: 30rem;
