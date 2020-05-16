@@ -28,7 +28,7 @@ export default function HomeScreen(props) {
               <img
                 className="product-image"
                 src={product.image}
-                alt="product"
+                alt={product.name}
               />
             </Link>
 
